@@ -1,0 +1,143 @@
+/* css for final resume */
+
+* {
+    padding: 0;
+    margin: 0;
+}*
+
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.bdy{
+    border: 2px solid gray;
+    border-radius: 3px;
+    margin: 12px;
+    line-height: 1.6;
+}
+
+.deets{
+    display: flex;
+    gap: 6px;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+.call{
+    display: flex;
+    gap: 6px;
+    align-items: center;
+}
+
+.mail{
+    display: flex;
+    gap: 6px;
+    align-items: center;
+}
+
+.linkedin{
+    display: flex;
+    gap: 6px;
+    align-items: center;
+}
+
+.name{
+    text-align: center;
+    margin-bottom: 8px;
+}
+
+.headname{
+    color: blueviolet;
+    margin-bottom: 12px;
+    margin-top: 12px;
+}
+
+.summary{
+    margin-top: 8px;
+    margin-bottom: 8px;
+    padding: 12px;
+
+}
+.summaryhead{
+    display: flex;
+    gap: 6px;
+    align-items: center;
+    color: blueviolet;
+    margin-bottom: 8px;
+}
+
+.about{
+    text-align: justify;
+}
+
+.work{
+    margin-top: 8px;
+    margin-bottom: 8px;
+    padding: 12px;
+
+}
+
+.workhead{
+    display: flex;
+    gap: 6px;
+    align-items: center;
+    color: blueviolet;
+    margin-bottom: 8px;
+}
+
+.edu{
+    margin-top: 8px;
+    margin-bottom: 8px;
+    padding: 12px;
+
+}
+
+.exp{
+    margin-left: 20px;
+
+}
+
+.info{
+    margin-top: 8px;
+    margin-bottom: 8px;
+    padding: 12px;
+
+}
+
+.pi{
+    margin-left: 20px;
+}
+
+.eduname{
+    display: flex;
+    gap: 6px;
+    align-items: center;
+    color: blueviolet;
+    margin-bottom: 8px;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+.flexb{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.flexbox{
+    display: flex;
+    justify-content: space-between;
+}
+
+.pinfo{
+    display: flex;
+    gap: 6px;
+    align-items: center;
+    color: blueviolet;
+    margin-bottom: 8px;
+}
